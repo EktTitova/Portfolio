@@ -1,6 +1,6 @@
 # Прогноз количества заказов для сервиса такси
 
-[ipynb](https://github.com/aq2003/Portfolio/blob/main/Taxi%20Service/P12_Portfolio.ipynb)
+[ipynb](https://github.com/EktTitova/Projects/blob/main/Taxi-time-forecast/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D1%80%D1%8F%D0%B4%D1%8B.ipynb)
 
 ## Описание проекта
 
