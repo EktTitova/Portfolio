@@ -14,15 +14,12 @@
 - statsmodels.tsa.seasonal.**seasonal_decompose**
 - sklearn.model_selection.**TimeSeriesSplit**
 - sklearn.model_selection.**GridSearchCV**
-- sklearn.metrics.**mean_squared_error**
-- sklearn.metrics.**make_scorer**
 - sklearn.linear_model.**LinearRegression**
-- sklearn.ensemble.**RandomForestRegressor**
-- catboost.**CatBoostRegressor**
+- **LGBMRegressor**
 - **matplotlib**
 
 ## 
 
 ## Общий вывод
 
-Проведено исследование временного ряда на предмет трендовых и сезонных закономерностей, случайной составляющей. Проведено исследование трёх типов моделей, выбрана линейная регрессия.
+Проведено исследование временного ряда на предмет трендовых и сезонных закономерностей, случайной составляющей. Проведено исследование двух типов моделей, выбран градиентный бустинг.
