@@ -1,6 +1,6 @@
 # Обнаружение каверов музыкальных треков
 
-[ipynb](https://github.com/EktTitova/Projects/blob/main/Telecom-customer-churn/%D0%A2%D0%B5%D0%BB%D0%B5%D0%BA%D0%BE%D0%BC.ipynb)
+[ipynb](https://github.com/EktTitova/Projects/blob/main/Yandex%20music%20Hakaton/YM-18.ipynb)
 
 ## Описание проекта
 
